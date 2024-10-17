@@ -1,0 +1,9 @@
+﻿<Application x:Class="WPF_CONTACT.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPF_CONTACT"
+             StartupUri="P/MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
